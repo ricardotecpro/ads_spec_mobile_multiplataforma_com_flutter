@@ -1,4 +1,4 @@
-# **Módulo 18: Pilares do Software de Qualidade**
+# Módulo 18: Pilares do Software de Qualidade
 
 ## Introdução ao Módulo
 
