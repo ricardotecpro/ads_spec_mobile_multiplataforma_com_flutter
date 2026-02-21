@@ -1,0 +1,717 @@
+WARNING -  [git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs' has no git logs, using current timestamp
+INFO    -  [macros] - No default module `main` found
+INFO    -  [macros] - Config variables: ['extra', 'config', 'environment', 'plugin', 'git', 'social', 'version', 'macros', 'filters', 'filters_builtin']
+INFO    -  [macros] - Config macros: ['context', 'macros_info', 'now', 'fix_url']
+INFO    -  [macros] - Config filters: ['pretty', 'relative_url']
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\site
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\materiais.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\plano-ensino.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\print_page.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\project_roadmap.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\sobre.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\index.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-01.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-02.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-03.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-04.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-05.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-06.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-07.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-08.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-09.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-10.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-11.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-12.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-13.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-14.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-15.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-16.md has not been committed yet. Lines are not counted
+WARNING -  [git-authors-plugin] D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\templates\template-aula.md has not been committed yet. Lines are not counted
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\materiais.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\plano-ensino.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\print_page.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\project_roadmap.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\sobre.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\templates\template-aula.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\materiais.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\print_page.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\plano-ensino.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\sobre.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\project_roadmap.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\index.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-01.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-14.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-03.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-02.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-04.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-05.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-07.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-06.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-09.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-08.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-11.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-10.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-12.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-13.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-15.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-16.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\templates\template-aula.md' has no git logs, using current timestamp
+[git-revision-date-localized-plugin] 'D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-14.md' has no git logs, using current timestamp
+INFO    -  The following pages exist in the docs directory, but are not included in the "nav" configuration:
+  - aulas\index.md
+  - quizzes\src\quiz-01.md
+  - quizzes\src\quiz-02.md
+  - quizzes\src\quiz-03.md
+  - quizzes\src\quiz-04.md
+  - quizzes\src\quiz-05.md
+  - quizzes\src\quiz-06.md
+  - quizzes\src\quiz-07.md
+  - quizzes\src\quiz-08.md
+  - quizzes\src\quiz-09.md
+  - quizzes\src\quiz-10.md
+  - quizzes\src\quiz-11.md
+  - quizzes\src\quiz-12.md
+  - quizzes\src\quiz-13.md
+  - quizzes\src\quiz-14.md
+  - quizzes\src\quiz-15.md
+  - quizzes\src\quiz-16.md
+  - setups\setup-03.md
+  - setups\setup-04.md
+  - setups\setup-05.md
+  - setups\setup-06.md
+  - setups\setup-07.md
+  - setups\setup-08.md
+  - setups\setup-09.md
+  - slides\src\slide-01.md
+  - slides\src\slide-02.md
+  - slides\src\slide-03.md
+  - slides\src\slide-04.md
+  - slides\src\slide-05.md
+  - slides\src\slide-06.md
+  - slides\src\slide-07.md
+  - slides\src\slide-08.md
+  - slides\src\slide-09.md
+  - slides\src\slide-10.md
+  - slides\src\slide-11.md
+  - slides\src\slide-12.md
+  - slides\src\slide-13.md
+  - slides\src\slide-14.md
+  - slides\src\slide-15.md
+  - slides\src\slide-16.md
+WARNING:root:First revision timestamp is older than last revision timestamp for page index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page materiais.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\materiais.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page plano-ensino.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\plano-ensino.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page print_page.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\print_page.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page project_roadmap.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\project_roadmap.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page sobre.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\sobre.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page aulas\aula-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\aulas\aula-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page exercicios\exercicio-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\exercicios\exercicio-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page projetos\projeto-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\projetos\projeto-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\quiz-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\quiz-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page quizzes\src\quiz-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\quizzes\src\quiz-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page setups\setup-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\setups\setup-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\index.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\index.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\slide-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\slide-16.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-01.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-01.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-02.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-02.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-03.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-03.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-04.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-04.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-05.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-05.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-06.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-06.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-07.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-07.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-08.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-08.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-09.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-09.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-10.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-10.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-11.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-11.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-12.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-12.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-13.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-13.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-14.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-14.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-15.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-15.md.
+WARNING:root:First revision timestamp is older than last revision timestamp for page slides\src\slide-16.md. This can be due to a quirk in `git` follow behaviour. You can try to set `enable_git_follow: false` in the plugin configuration.
+INFO    -  [RSS-plugin]: Dates could not be retrieved for page: D:\SourceCode\REPOS\github.io\ads_spec_mobile_multiplataforma_com_flutter\docs\slides\src\slide-16.md.
+
+Aborted with 134 warnings in strict mode!
